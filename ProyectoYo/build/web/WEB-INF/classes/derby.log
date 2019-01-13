@@ -1,0 +1,44 @@
+Tue Mar 21 19:26:21 CST 2017 : Servidor de red Apache Derby: Se ha iniciado 10.10.2.0 - (1582446) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Tue Mar 21 19:27:22 CST 2017:
+ Iniciando instancia a816c00e-015a-f39f-0d1d-ffffa7e59b77 de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): 
+en el directorio de base de datos /Users/oswaldosaldivar/.netbeans-derby/sun-appserv-samples con el cargador de clases sun.misc.Launcher$AppClassLoader@66d3c617
+Cargado desde file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.3
+derby.system.home=/Users/oswaldosaldivar/.netbeans-derby
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 21 20:10:55 CST 2017:
+ Iniciando instancia 856dc0f6-015a-f39f-0d1d-ffffa7e59b77 de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): 
+en el directorio de base de datos /Users/oswaldosaldivar/.netbeans-derby/Pizza con el cargador de clases sun.misc.Launcher$AppClassLoader@66d3c617
+Cargado desde file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.3
+derby.system.home=/Users/oswaldosaldivar/.netbeans-derby
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 21 20:10:55 CST 2017:
+Cerrando la instancia 856dc0f6-015a-f39f-0d1d-ffffa7e59b77 en el directorio de base de datos /Users/oswaldosaldivar/.netbeans-derby/Pizza con cargador de clases sun.misc.Launcher$AppClassLoader@66d3c617
+Tue Mar 21 20:10:55 CST 2017 Thread[DRDAConnThread_10,5,main] (DATABASE = Pizza), (DRDAID = {49}), Cierre de la base de datos 'Pizza'.
+----------------------------------------------------------------
+Tue Mar 21 20:11:05 CST 2017:
+ Iniciando instancia 56b64192-015a-f39f-0d1d-ffffa7e59b77 de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): 
+en el directorio de base de datos /Users/oswaldosaldivar/.netbeans-derby/Pizza con el cargador de clases sun.misc.Launcher$AppClassLoader@66d3c617
+Cargado desde file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.3
+derby.system.home=/Users/oswaldosaldivar/.netbeans-derby
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
